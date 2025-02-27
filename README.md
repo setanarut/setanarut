@@ -27,5 +27,3 @@
 - [fif](https://github.com/setanarut/fif) - A command line tool for embedding any file into PNG, GIF, WAV file formats and decoding back. <img src="https://skillicons.dev/icons?i=py" width="13">
 - [eksisozluk-baslik-indir](https://github.com/setanarut/eksisozluk-baslik-indir) - eksisozluk.com title downloader (CSV) <img src="https://skillicons.dev/icons?i=py" width="13">
 - [decompose](https://github.com/setanarut/decompose) - Decompose image into layers <img src="https://skillicons.dev/icons?i=py" width="13">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=setanarut&show_icons=true)
