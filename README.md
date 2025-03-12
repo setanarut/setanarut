@@ -4,7 +4,7 @@
 
 - [halftonism](https://github.com/setanarut/halftonism) - Artistic halftone GIF generation <img src="https://skillicons.dev/icons?i=py" width="13">
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [Pointilizm](https://github.com/setanarut/Pointilizm) - Convert a photo into a pointillist painting <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [pointilizm](https://github.com/setanarut/Pointilizm) - Convert a photo into a pointillist painting <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [rainfall](https://github.com/setanarut/rainfall) - Hydraulic erosion simulation across a heightfield <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 
 ### Game dev
