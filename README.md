@@ -14,14 +14,14 @@
 - [fif](https://github.com/setanarut/fif) - A command line tool for embedding any file into PNG, GIF, WAV file formats and decoding back. <img src="https://skillicons.dev/icons?i=py" width="13">
 - [eksisozluk-baslik-indir](https://github.com/setanarut/eksisozluk-baslik-indir) - eksisozluk.com title downloader (CSV) <img src="https://skillicons.dev/icons?i=py" width="13">
 
-# Game dev
+## Game dev
 
-## Games
+### Games
 
 - [kar](https://github.com/setanarut/kar) - 2D mining/platformer game. (Work in progress) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [bulimia](https://github.com/setanarut/bulimia) - A top-down 2D game prototype (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 
-## Packages
+### Packages
 - [kamera](https://github.com/setanarut/kamera) - Camera package for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [anim](https://github.com/setanarut/anim) - Animation player for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [tilecollider](https://github.com/setanarut/tilecollider) - collision detection for tile-based games  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
