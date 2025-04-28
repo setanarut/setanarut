@@ -4,8 +4,7 @@
 
 - [halftonism](https://github.com/setanarut/halftonism) - Artistic halftone GIF generation <img src="https://skillicons.dev/icons?i=py" width="13">
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [cca-js](https://github.com/setanarut/cca-js) - Cyclic cellular automaton explorer (online HTML) <img src="https://skillicons.dev/icons?i=js" width="13">
-- [ccae](https://github.com/setanarut/ccae) - Cyclic cellular automaton explorer <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [cca-js](https://github.com/setanarut/cca-js) - Cyclic cellular automaton explorer (webgl2 shader) <img src="https://skillicons.dev/icons?i=js" width="13">
 - [apng](https://github.com/setanarut/apng) - Fast APNG encoder in Go with parallel computation. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [rainfall](https://github.com/setanarut/rainfall) - Hydraulic erosion simulation across a heightfield <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 
