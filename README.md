@@ -6,7 +6,6 @@
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [cca-frag](https://github.com/setanarut/cca-frag) - Cyclic cellular automaton explorer (webgl2 shader) <img src="https://skillicons.dev/icons?i=html" width="13">
 - [apng](https://github.com/setanarut/apng) - Fast APNG encoder in Go with parallel computation. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [rainfall](https://github.com/setanarut/rainfall) - Hydraulic erosion simulation across a heightfield <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 
 ## Game dev
 
