@@ -13,7 +13,7 @@
 
 ### Games
 
-- [kar](https://github.com/setanarut/kar) - 2D mining/platformer game. (Work in progress) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [kar](https://github.com/setanarut/kar) - 2D mining/platformer game. (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [bulimia](https://github.com/setanarut/bulimia) - A top-down 2D game prototype (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 
 ### Packages
