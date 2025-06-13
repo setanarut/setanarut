@@ -5,7 +5,6 @@
 - [halftonism](https://github.com/setanarut/halftonism) - Artistic halftone GIF generation <img src="https://skillicons.dev/icons?i=py" width="13">
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [maze](https://github.com/setanarut/maze) - Maze generator. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [mathutils](https://github.com/setanarut/mathutils) - Go package for mathematical utilities. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [ccae](https://github.com/setanarut/ccae) - Cyclic cellular automaton explorer (Ebitengine) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [tween](https://github.com/setanarut/tween) - Tweening package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
