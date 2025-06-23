@@ -15,16 +15,17 @@
 
 ## Game dev
 
+### Packages
+- [kamera](https://github.com/setanarut/kamera) - Camera package for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [anim](https://github.com/setanarut/anim) - Animation player for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [coll](https://github.com/setanarut/coll) - 2D collision routines  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [tilecollider](https://github.com/setanarut/tilecollider) - Collision detection for tile-based games  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [maze](https://github.com/setanarut/maze) - 2D Maze generator  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+
 ### Games
 
 - [kar](https://github.com/setanarut/kar) - 2D mining/platformer game. (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [bulimia](https://github.com/setanarut/bulimia) - A top-down 2D game prototype (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-
-### Packages
-- [kamera](https://github.com/setanarut/kamera) - Camera package for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [anim](https://github.com/setanarut/anim) - Animation player for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [tilecollider](https://github.com/setanarut/tilecollider) - collision detection for tile-based games  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [coll](https://github.com/setanarut/coll) - 2d collision routines  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 
 ## Command Line Tools
 
