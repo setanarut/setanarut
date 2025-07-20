@@ -5,6 +5,7 @@
 - [halftonism](https://github.com/setanarut/halftonism) - Artistic halftone GIF generation <img src="https://skillicons.dev/icons?i=py" width="13">
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [v](https://github.com/setanarut/v) - 2d vector package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [gokturkce](https://github.com/setanarut/gokturkce) - Türkçe -> Göktürkçe alfabe çevirici <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [cm](https://github.com/setanarut/cm) - Go port of Chipmunk2D 7.0.3 physics library. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [ebitencm](https://github.com/setanarut/ebitencm) - setanarut/cm physics space drawing package. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
