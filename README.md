@@ -6,6 +6,7 @@
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [tween](https://github.com/setanarut/tween) - Tweening package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [fastnoise](https://github.com/setanarut/fastnoise) - 2D/3D Noise generation <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [mathutils](https://github.com/setanarut/mathutils) - Go package for mathematical utilities. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [v](https://github.com/setanarut/v) - 2d vector package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [rainfall](https://github.com/setanarut/rainfall) - Go package for hydraulic erosion simulation across a heightfield. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
