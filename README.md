@@ -19,6 +19,7 @@
 
 - [coll](https://github.com/setanarut/coll) - 2D collision library for Go  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [kamera](https://github.com/setanarut/kamera) - Camera package for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [aseprite](https://github.com/setanarut/aseprite) - Aseprite file parser <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [aseplayer](https://github.com/setanarut/aseplayer) - Aseprite player for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [anim](https://github.com/setanarut/anim) - Animation player for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [maze](https://github.com/setanarut/maze) - 2D Maze generator  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
