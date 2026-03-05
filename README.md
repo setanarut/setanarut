@@ -2,7 +2,8 @@
 
 ## General
 
-- [halftonism](https://github.com/setanarut/halftonism) - Artistic halftone GIF generation <img src="https://skillicons.dev/icons?i=py" width="13">
+- [halftonizm](https://github.com/setanarut/halftonizm) - Krita plugin for generating artistic halftone animation <img src="https://skillicons.dev/icons?i=py" width="13">
+- [halftonism](https://github.com/setanarut/halftonism) - Artistic halftone GIF generation script <img src="https://skillicons.dev/icons?i=py" width="13">
 - [layerbuilder](https://github.com/setanarut/layerbuilder) - Image Layer Decomposition (Color segmentation) package in pure Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
