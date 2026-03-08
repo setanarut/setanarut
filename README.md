@@ -1,6 +1,6 @@
 ### General
 
-- [halftonizm](https://github.com/setanarut/halftonizm) - Krita plugin for generating artistic halftone cyclic animation <img src="https://skillicons.dev/icons?i=py" width="13">
+- [halftonizm](https://github.com/setanarut/halftonizm) - Krita plugin for generating artistic cyclic halftone animation <img src="https://skillicons.dev/icons?i=py" width="13">
 - [layerbuilder-app](https://github.com/setanarut/layerbuilder-app) - Image Layer Decomposition (Color segmentation) app <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [tween](https://github.com/setanarut/tween) - Tweening package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
