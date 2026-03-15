@@ -1,18 +1,24 @@
-### General
+#### Halftonism
 
 - [halftonizm](https://github.com/setanarut/halftonizm) - Krita plugin for generating artistic cyclic halftone animation <img src="https://skillicons.dev/icons?i=py" width="13">
-- [layerbuilder-app](https://github.com/setanarut/layerbuilder-app) - Image Layer Decomposition (Color segmentation) app <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [layerbuilder-app](https://github.com/setanarut/layerbuilder-app) - Decompose image into layers. Desktop App (Superpixels) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20"> <img src="https://skillicons.dev/icons?i=js" width="13"> <img src="https://skillicons.dev/icons?i=html" width="13">
+- [decompose](https://github.com/setanarut/decompose) - Decompose image into layers. CLT (PyTorch) <img src="https://skillicons.dev/icons?i=py" width="13"> <img src="https://skillicons.dev/icons?i=pytorch" width="13">
+- [fastlem-html](https://github.com/setanarut/fastlem-html) - 2D landscape evolution model <img src="https://skillicons.dev/icons?i=js" width="13"> <img src="https://skillicons.dev/icons?i=html" width="13">
+- [cycle](https://setanarut.github.io/blog/cycle/) - cyclic GIF generator <img src="https://skillicons.dev/icons?i=js" width="13"> <img src="https://skillicons.dev/icons?i=html" width="13">
+
+#### General
+
+- [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [tween](https://github.com/setanarut/tween) - Tweening package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [mathutils](https://github.com/setanarut/mathutils) - Go package for mathematical utilities. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [apng](https://github.com/setanarut/apng) - Fast concurrent APNG encoder in Go. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [v](https://github.com/setanarut/v) - 2d vector package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [gog](https://github.com/setanarut/gog) - 2d drawing package for Go <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [fastnoise](https://github.com/setanarut/fastnoise) - 2D/3D Noise generation <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [rainfall](https://github.com/setanarut/rainfall) - Go package for hydraulic erosion simulation across a heightfield. <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [ccae](https://github.com/setanarut/ccae) - Cyclic cellular automaton explorer (Ebitengine) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [mdgo](https://github.com/setanarut/mdgo) - Markdown to HTML renderer command-line tool <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
+- [eksisozluk-baslik-indir](https://github.com/setanarut/eksisozluk-baslik-indir) - eksisozluk.com title downloader (CSV) <img src="https://skillicons.dev/icons?i=py" width="13">
 
-### Game Dev
+#### Game Dev
 
 - [coll](https://github.com/setanarut/coll) - 2D collision library for Go  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [kamera](https://github.com/setanarut/kamera) - Camera package for Ebitengine <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
@@ -21,11 +27,3 @@
 - [Level 5](https://github.com/setanarut/level5) - 2d action game <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [Kar](https://github.com/setanarut/kar) - 2D mining/platformer game. (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
 - [Bulimia](https://github.com/setanarut/bulimia) - A top-down 2D game prototype (abandoned) <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-
-### Command Line Tools
-
-- [pointilizm](https://github.com/setanarut/pointilizm) - Convert a photo into a pointillist painting <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" width="20">
-- [decompose](https://github.com/setanarut/decompose) - Decompose image into layers <img src="https://skillicons.dev/icons?i=py" width="13">
-- [eksisozluk-baslik-indir](https://github.com/setanarut/eksisozluk-baslik-indir) - eksisozluk.com title downloader (CSV) <img src="https://skillicons.dev/icons?i=py" width="13">
-- [fif](https://github.com/setanarut/fif) - A command line tool for embedding any file into PNG, GIF, WAV file formats and decoding back. <img src="https://skillicons.dev/icons?i=py" width="13">
-
